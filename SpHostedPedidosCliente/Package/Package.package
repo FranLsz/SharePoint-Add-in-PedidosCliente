@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="29c7397e-d0f3-4d5d-b40b-95270077e510" 
+        solutionId="29c7397e-d0f3-4d5d-b40b-95270077e510" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SpHostedPedidosCliente"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="91cfcff1-24dd-4132-814b-5023f4559677" />
+  </features>
+</package>
